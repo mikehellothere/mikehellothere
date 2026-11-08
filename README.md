@@ -1,6 +1,4 @@
-## Hi there! 👋
-## Im learning to code
-print("hello")
+## Hello!
 
 <!--
 **mikehellothere/mikehellothere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
